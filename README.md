@@ -3,9 +3,7 @@
 A tiny macOS menu bar app that shows how much RAM you're using, right next to the
 clock and battery.
 
-```
-12.50 / 16 GB
-```
+![MemTicker in the macOS menu bar, showing 12.48 / 16 GB beside the clock](docs/screenshot.png)
 
 That's it. No window, no Dock icon, no preferences pane. The number matches
 Activity Monitor's **Memory Used**, updated every couple of seconds.
